@@ -1,0 +1,21 @@
+Capteur d'irradiation :
+
+Destiné à la surveillance d’une installation photovoltaïque, le capteur d’irradiation permet
+ de déterminer à l’aide de l’irradiation mesurée le rendement d’une installation photovoltaïque et 
+ de le comparer au rendement réel. Les divergences par rapport au rendement de consigne et les pertes de 
+ performance peuvent ainsi être décelées rapidement et de manière fiable. Il en existe différentes versions
+ pour les usages industriels et domestiques.
+ 
+ 
+ 
+ 
+ Capteurs d'éclairement
+ 
+ Ce détecteur permet de réaliser une mesure de la luminosité, indifféremment de l’orientation.
+ La transmission du niveau de luminosité s’effectue par un signal standardisé à des installations 
+ automatiques d’assombrissement ou de chauffage dans des serres automatisées, ainsi qu’à des installations
+ de domotiques pour le réglage de la fermeture des stores. La sortie « crépuscule » permet de reconnaître avec précision l’apparition de la première
+ luminosité et sa disparition en fin de journée et d’appliquer, de manière efficace, des mesures d’économie 
+ d’énergie (ex : baisse ou augmentation de la valeur à atteindre, fonctionnement de l’écran anti-chaleur, etc.).
+ 
+ 

@@ -1,0 +1,16 @@
+<html class="fond">
+	<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="mon.css" /> 
+		<title>Capteurs solaires</title>
+	</head>
+	<body>
+	<center><h1 class="bc">Création du site</h1></center>
+		<center>
+			<ul>
+				<li><a href="index.html">Accueil</a></li> 
+				<li><a href="quoi.html">Eclairement / Irradiation</a></li>
+				<li><a href="exemple.html">Creation du site</a></li>
+				<li><a href="ccl.html">Conclusion</a></li>
+			</ul>
+		</center>
